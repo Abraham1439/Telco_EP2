@@ -410,7 +410,7 @@ Requisitos: Python 3.11 o superior.
 
 ```bash
 # 1. Clonar el repositorio y entrar a la carpeta
-git clone <enlace del repositorio>
+git clone https://github.com/Abraham1439/Telco_EP2
 cd proyecto_churn
 
 # 2. (Recomendado) crear un entorno virtual
