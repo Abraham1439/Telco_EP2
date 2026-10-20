@@ -1,0 +1,4 @@
+,Accuracy,Recall,Precisión,F1,ROC-AUC,PR-AUC
+Línea base,0.7346,0.0,0.0,0.0,0.5,0.2654
+Regresión Logística,0.7367,0.7888,0.5026,0.6139,0.8406,0.6337
+Random Forest,0.7608,0.7888,0.5335,0.6365,0.8428,0.6486

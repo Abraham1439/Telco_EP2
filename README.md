@@ -415,7 +415,8 @@ cd proyecto_churn
 
 # 2. (Recomendado) crear un entorno virtual
 python -m venv .venv
-source .venv/bin/activate          # En Windows: .venv\Scripts\activate
+source .venv/bin/activate          
+En Windows: .venv\Scripts\activate
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
