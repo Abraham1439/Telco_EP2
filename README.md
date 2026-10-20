@@ -105,7 +105,7 @@ Cita de IBM: *"a fictional telco company that provided home phone and Internet s
 
 | Herramienta | Uso en el proyecto |
 |---|---|
-| **Git / GitHub** | Control de versiones del repositorio del equipo. Cada integrante trabaja en su parte y sube sus cambios con *commits* identificados, y el historial deja registro de quién hizo qué. Repositorio: *[agregar enlace]* |
+| **Git / GitHub** | Control de versiones del repositorio del equipo. Cada integrante trabaja en su parte y sube sus cambios con *commits* identificados, y el historial deja registro de quién hizo qué. Repositorio: *https://github.com/Abraham1439/Telco_EP2* |
 | **Jupyter Notebook** | Entorno reproducible: el código, los resultados y su explicación quedan juntos y cualquiera puede volver a ejecutarlos. |
 | **Python** (pandas, scikit-learn, SciPy, matplotlib) | Manipulación de datos, pruebas estadísticas, modelos y gráficos. |
 
@@ -382,7 +382,7 @@ El riesgo medio que asigna el modelo supervisado a cada segmento (0,770 · 0,406
 ## 9. Estructura del proyecto
 
 ```
-proyecto_churn/
+Telco_EP2/
 ├── README.md                              Informe técnico (este documento)
 ├── requirements.txt                       Librerías necesarias para ejecutar el proyecto
 ├── .gitignore                             Archivos que no se versionan
@@ -411,7 +411,7 @@ Requisitos: Python 3.11 o superior.
 ```bash
 # 1. Clonar el repositorio y entrar a la carpeta
 git clone https://github.com/Abraham1439/Telco_EP2
-cd proyecto_churn
+cd Telco_EP2
 
 # 2. (Recomendado) crear un entorno virtual
 python -m venv .venv
